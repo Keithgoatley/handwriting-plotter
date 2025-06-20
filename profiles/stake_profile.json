@@ -1,0 +1,10 @@
+{
+  "profile_name": "Stake Blocky",
+  "target_site": "Stake",
+  "handwriting_style_file": "PatrickHand-Regular.ttf",
+  "variation": {
+    "tilt": [-3, 3],
+    "height": [0.95, 1.05],
+    "baseline_jitter": [-1, 1]
+  }
+}

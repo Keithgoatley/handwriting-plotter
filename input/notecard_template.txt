@@ -1,0 +1,10 @@
+{FULL_NAME}
+{USERNAME}
+{ADDRESS}
+{EMAIL}
+
+CODE: {CODE}
+
+I wish to receive Stake cash to participate in the sweepstakes promotions offered by Stake Sweepstakes.
+
+By submitting this request, I hereby declare that I have read, understood and agree to be bound by Stake’s Terms and Conditions.
